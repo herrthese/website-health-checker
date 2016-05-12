@@ -33,9 +33,8 @@ The following example use <tt>net/http</tt> to return the return-code.
 ```ruby
 #input: ARRAY of URLs
 #return: return-codes of given URLs
-@website-health-checker = WebsiteHealthChecker.check(['tse-c.de', 'herrthese.de'])
+WebsiteHealthChecker.check(['tse-c.de', 'herrthese.de'])
 
-puts @website-health-checker
 ```
 
 ### Return
