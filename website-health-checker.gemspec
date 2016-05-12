@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = 'website-health-checker'
-  s.version     = '0.0.1'
-  s.date        = '2016-05-11'
+  s.version     = '0.0.2'
+  s.date        = '2016-05-12'
   s.summary     = "Website Health Checker"
   s.description = "This project is a simple client for check some websites whether they are healthy"
   s.authors     = ["Markus These"]
